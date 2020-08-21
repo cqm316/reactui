@@ -45,8 +45,9 @@
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "sideEffects": false,
+  "repository":"https://github.com/cqm316/reactui/",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@cqm316"
+    "registry": "https://npm.pkg.github.com/cqm316"
   },
   "eslintConfig": {
     "extends": "react-app"

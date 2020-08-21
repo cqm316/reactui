@@ -156,3 +156,19 @@ https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part03/github
 
 https://github.com/cqm316/reactui/actions
 
+
+### coveralls
+
+步骤
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part03/githubCoverall.md
+
+我 npm run coverall 报错
+
+### 打包发布
+
+步骤
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part03/githubPackage.md
+
+npm publish
