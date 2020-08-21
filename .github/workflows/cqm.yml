@@ -1,7 +1,11 @@
 # This is a basic workflow to help you get started with Actions
-
-name: CI
-
+name: Coveralls
+  env:
+    COVERALLS_SERVICE_NAME: 'GitHub CI'
+    COVERALLS_GIT_BRANCH: master
+    COVERALLS_REPO_TOKEN : ${{secrets.COVERALLS_REPO_TOKEN}}
+  run: |
+    npm run coverall
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:

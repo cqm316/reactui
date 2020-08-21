@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/cqm316/reactui/badge.svg?branch=master)](https://coveralls.io/github/cqm316/reactui?branch=master)
+
 # part 1
 
 ### npm install -g create-react-app
@@ -143,3 +145,14 @@ npm install  styled-components @types/styled-components -D
 ```
 
 # part 3
+
+### github-actions
+
+步骤
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part03/githubAction.md
+
+我的成果
+
+https://github.com/cqm316/reactui/actions
+
