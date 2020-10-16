@@ -1,6 +1,6 @@
-[![Coverage Status](https://coveralls.io/repos/github/cqm316/reactui/badge.svg?branch=master)](https://coveralls.io/github/cqm316/reactui?branch=master)
+# npm install
 
-# part 1
+# npm run storybook
 
 ### npm install -g create-react-app
 
@@ -119,92 +119,3 @@ npm install  styled-components @types/styled-components -D
 
 
 ### npm i @storybook/addon-ally @storybook/addon-knobs @storybook/addon-storysource -D
-
-
-# part 2
-
-### polished
-
-为了在styled-components里像scss等预处理器一样写常用函数，还需要安装下polished这个库。
-
-网站官网https://polished.js.org/docs/
-
-- npm install --save polished
-
-### npm i react-docgen-typescript-loader -D
-
-### npm run coverage 代码覆盖率
-
-```
-// 如果测试代码覆盖率报错可以用下面注释的代码
-// return React.createElement(
-//   StyledButton,
-//   { as: btnType, ...props, "data-testid": "button" },
-//   buttonInner
-// )
-```
-
-# part 3
-
-### github-actions
-
-步骤
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part03/githubAction.md
-
-我的成果
-
-https://github.com/cqm316/reactui/actions
-
-
-### coveralls
-
-步骤
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part03/githubCoverall.md
-
-我 npm run coverall 报错
-
-### 打包发布
-
-步骤
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part03/githubPackage.md
-
-npm publish
-
-# part 4
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part04/DAY7&DAY8.md
-
-# part 5
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part05/DAY9&DAY10.md
-
-# part 6
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part06/DAY11&DAY12.md
-
-# part 7
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part07/DAY13&DAY14.md
-
-# part 8
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part08/DAY15&DAY16.md
-
-# part 9
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part09/DAY17&DAY18.md
-
-# part 10
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part10/DAY19&DAY20.md
-
-# part 11 
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part11/DAY21&DAY22.md
-
-# part 12
-
-https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part12/DAY23.md
