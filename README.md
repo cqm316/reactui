@@ -172,3 +172,39 @@ https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part03/github
 https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part03/githubPackage.md
 
 npm publish
+
+# part 4
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part04/DAY7&DAY8.md
+
+# part 5
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part05/DAY9&DAY10.md
+
+# part 6
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part06/DAY11&DAY12.md
+
+# part 7
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part07/DAY13&DAY14.md
+
+# part 8
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part08/DAY15&DAY16.md
+
+# part 9
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part09/DAY17&DAY18.md
+
+# part 10
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part10/DAY19&DAY20.md
+
+# part 11 
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part11/DAY21&DAY22.md
+
+# part 12
+
+https://gitee.com/zhufengpeixun/zhufeng-react-assembly/blob/master/part12/DAY23.md

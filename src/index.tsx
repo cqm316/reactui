@@ -1,4 +1,15 @@
+export { Icon } from "./components/icon";
+export { default as Badge } from "./components/badge";
+export { Avatar } from "./components/avatar";
+export { Carousel } from './components/carousel';
 export * from "./components/button";
 export * from "./components/shared/global";
 export * from "./components/shared/styles";
 export * from "./components/shared/animation";
+export * from "./components/datepicker";
+// export * from "./components/message";
+// export * from "./components/modal";
+export * from "./components/progress";
+export * from "./components/radio";
+export * from "./components/tree";
+export * from "./components/upload";
